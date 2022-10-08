@@ -3,9 +3,9 @@ import Home from '~/pages/Home';
 import Following from '~/pages/Following';
 import Profile from './pages/Profile';
 import Upload from './pages/Upload';
-import Defaultlayout from './components/Layouts/DefaultLayout';
-import HeaderOnly from './components/Layouts/HeaderOnly';
-import Profilelayout from './components/Layouts/ProfileLayout';
+import Defaultlayout from './layouts/DefaultLayout';
+import HeaderOnly from './layouts/HeaderOnly';
+import Profilelayout from './layouts/ProfileLayout';
 
 function App() {
   return (
